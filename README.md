@@ -4,3 +4,6 @@
 - 👀 I’m interested in ... web development
 - 🌱 I’m currently learning ... php and javascript
 - 📫 How to reach me ... [email] (gabo.develop3r@gmail.com)
+
+
+https://github-readme-stats.vercel.app/api?gabodevelop3r
