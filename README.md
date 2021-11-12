@@ -6,5 +6,5 @@
 - 📫 How to reach me ... [email] (gabo.develop3r@gmail.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabodevelop3r&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabodevelop3r)](https://github.com/anuraghazra/github-readme-stats)
 
