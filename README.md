@@ -6,4 +6,4 @@
 - 📫 How to reach me ... [email] (gabo.develop3r@gmail.com)
 
 
-https://github-readme-stats.vercel.app/api?gabodevelop3r
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabodevelop3r &theme=radical)
